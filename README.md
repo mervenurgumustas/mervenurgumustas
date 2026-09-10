@@ -4,6 +4,7 @@
 <h3 align="center">Student at the Karabuk University</h3>
 
 <h3 align="left">Connect with me:</h3>
+<a>https://www.linkedin.com/in/merve-nur-gumustas/</a>  
 <p align="left">
 </p>
 
